@@ -1,0 +1,83 @@
+timestamp_iso,unix_ts,soil_pct_before,rain_pct,duration_s,ml_dispensed,reason
+2026-04-25T13:57:38.263047+00:00,1777125458.2630475,15.0,64.67,6.3,315.0,Soil at 15.0% (below 25.0%). Deficit to target (60.0%): 45.0%. Valve open 6.3s -> ~315.0ml.
+2026-04-25T13:59:28.951765+00:00,1777125568.9517646,15.29,64.93,6.26,313.0,Soil at 15.3% (below 25.0%). Deficit to target (60.0%): 44.7%. Valve open 6.3s -> ~313.0ml.
+2026-04-25T14:01:53.196592+00:00,1777125713.1965919,14.96,64.87,6.31,315.3,Soil at 15.0% (below 25.0%). Deficit to target (60.0%): 45.0%. Valve open 6.3s -> ~315.3ml.
+2026-04-25T15:01:43.688248+00:00,1777129303.688248,21.18,58.99,5.43,271.7,0,False,Soil at 21.2% (below 30.0%). Deficit to target (60.0%): 38.8%. Valve open 5.4s -> ~271.7ml. Weather clear (0% rain prob).
+2026-04-25T15:03:43.864840+00:00,1777129423.8648398,28.31,58.89,4.44,221.8,0,False,Soil at 28.3% (below 30.0%). Deficit to target (60.0%): 31.7%. Valve open 4.4s -> ~221.8ml. Weather clear (0% rain prob).
+2026-04-25T15:05:11.104351+00:00,1777129511.1043506,28.24,58.86,4.45,222.3,0,False,Soil at 28.2% (below 30.0%). Deficit to target (60.0%): 31.8%. Pump for 4.4s -> ~222.3ml. Weather clear (0% rain prob).
+2026-04-25T15:06:17.109579+00:00,1777129577.109579,28.24,58.99,4.45,222.3,0,False,Soil at 28.2% (below 30.0%). Deficit to target (60.0%): 31.8%. Pump for 4.4s -> ~222.3ml. Weather clear (0% rain prob).
+2026-04-25T15:08:17.474519+00:00,1777129697.4745188,28.53,59.12,4.41,220.3,0,False,Soil at 28.5% (below 30.0%). Deficit to target (60.0%): 31.5%. Pump for 4.4s -> ~220.3ml. Weather clear (0% rain prob).
+2026-04-25T15:10:41.245535+00:00,1777129841.2455347,16.47,0.0,6.09,304.7,0,False,Soil at 16.5% (below 30.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T15:13:04.223047+00:00,1777129984.2230475,26.55,0.0,4.68,234.2,0,False,Soil at 26.6% (below 30.0%). Deficit to target (60.0%): 33.5%. Pump for 4.7s -> ~234.2ml. Weather clear (0% rain prob).
+2026-04-25T15:18:04.021886+00:00,1777130284.0218859,16.32,0.0,6.12,305.8,0,False,Soil at 16.3% (below 30.0%). Deficit to target (60.0%): 43.7%. Pump for 6.1s -> ~305.8ml. Weather clear (0% rain prob).
+2026-04-25T16:53:47.941694+00:00,1777136027.9416945,16.47,16.4,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T16:55:48.356483+00:00,1777136148.356483,16.43,17.45,6.1,305.0,0.0,False,Soil at 16.4% (below 25.0%). Deficit to target (60.0%): 43.6%. Pump for 6.1s -> ~305.0ml. Weather clear (0% rain prob).
+2026-04-25T17:00:40.054134+00:00,1777136440.0541344,16.47,17.47,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T17:02:27.524196+00:00,1777136547.5241961,16.47,16.8,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T17:03:33.892728+00:00,1777136613.8927279,15.88,20.67,6.18,308.8,0.0,False,Soil at 15.9% (below 25.0%). Deficit to target (60.0%): 44.1%. Pump for 6.2s -> ~308.8ml. Weather clear (0% rain prob).
+2026-04-25T17:05:07.479926+00:00,1777136707.4799263,16.47,15.87,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T17:07:06.266193+00:00,1777136826.2661934,16.18,16.27,6.13,306.7,0.0,False,Soil at 16.2% (below 25.0%). Deficit to target (60.0%): 43.8%. Pump for 6.1s -> ~306.7ml. Weather clear (0% rain prob).
+2026-04-25T17:12:27.100911+00:00,1777137147.1009114,16.47,15.73,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T17:14:28.548820+00:00,1777137268.54882,16.43,19.58,6.1,305.0,0.0,False,Soil at 16.4% (below 25.0%). Deficit to target (60.0%): 43.6%. Pump for 6.1s -> ~305.0ml. Weather clear (0% rain prob).
+2026-04-25T17:16:30.316996+00:00,1777137390.3169956,16.32,18.15,6.12,305.8,0.0,False,Soil at 16.3% (below 25.0%). Deficit to target (60.0%): 43.7%. Pump for 6.1s -> ~305.8ml. Weather clear (0% rain prob).
+2026-04-25T17:18:30.415180+00:00,1777137510.4151802,16.22,16.04,6.13,306.5,0.0,False,Soil at 16.2% (below 25.0%). Deficit to target (60.0%): 43.8%. Pump for 6.1s -> ~306.5ml. Weather clear (0% rain prob).
+2026-04-25T17:23:01.079162+00:00,1777137781.0791616,16.47,22.93,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-25T17:27:13.715594+00:00,1777138033.7155938,15.29,22.4,6.26,313.0,0,False,Soil at 15.3% (below 25.0%). Deficit to target (60.0%): 44.7%. Pump for 6.3s -> ~313.0ml. Weather clear (0% rain prob).
+2026-04-25T17:29:14.743499+00:00,1777138154.743499,16.54,15.89,6.08,304.2,0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.2ml. Weather clear (0% rain prob).
+2026-04-25T18:55:05.269250+00:00,1777143305.2692504,16.58,19.96,6.08,303.9,0,False,Soil at 16.6% (below 25.0%). Deficit to target (60.0%): 43.4%. Pump for 6.1s -> ~303.9ml. Weather clear (0% rain prob).
+2026-04-25T18:55:06.481863+00:00,1777143306.481863,15.88,22.0,6.18,308.8,0,False,Soil at 15.9% (below 25.0%). Deficit to target (60.0%): 44.1%. Pump for 6.2s -> ~308.8ml. Weather clear (0% rain prob).
+2026-04-25T18:57:05.588801+00:00,1777143425.588801,15.25,23.0,6.26,313.2,0,False,Soil at 15.2% (below 25.0%). Deficit to target (60.0%): 44.8%. Pump for 6.3s -> ~313.2ml. Weather clear (0% rain prob).
+2026-04-25T18:57:58.508433+00:00,1777143478.508433,19.85,16.18,5.62,281.1,0,False,Soil at 19.9% (below 25.0%). Deficit to target (60.0%): 40.1%. Pump for 5.6s -> ~281.1ml. Weather clear (0% rain prob).
+2026-04-25T18:59:05.689690+00:00,1777143545.6896904,15.99,26.38,6.16,308.1,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.1ml. Weather clear (0% rain prob).
+2026-04-25T19:00:01.611430+00:00,1777143601.6114297,15.92,18.27,6.17,308.6,0,False,Soil at 15.9% (below 25.0%). Deficit to target (60.0%): 44.1%. Pump for 6.2s -> ~308.6ml. Weather clear (0% rain prob).
+2026-04-25T19:01:06.822575+00:00,1777143666.822575,15.96,17.07,6.17,308.3,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.3ml. Weather clear (0% rain prob).
+2026-04-25T19:02:06.939858+00:00,1777143726.939858,16.03,19.67,6.16,307.8,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~307.8ml. Weather clear (0% rain prob).
+2026-04-25T19:03:58.555228+00:00,1777143838.5552285,16.29,51.9,6.12,306.0,0,False,Soil at 16.3% (below 25.0%). Deficit to target (60.0%): 43.7%. Pump for 6.1s -> ~306.0ml. Weather clear (0% rain prob).
+2026-04-25T19:04:11.235248+00:00,1777143851.2352476,16.18,58.95,6.13,306.7,0,False,Soil at 16.2% (below 25.0%). Deficit to target (60.0%): 43.8%. Pump for 6.1s -> ~306.7ml. Weather clear (0% rain prob).
+2026-04-25T19:05:59.071786+00:00,1777143959.071786,16.11,59.0,6.14,307.2,0,False,Soil at 16.1% (below 25.0%). Deficit to target (60.0%): 43.9%. Pump for 6.1s -> ~307.2ml. Weather clear (0% rain prob).
+2026-04-25T19:08:09.130365+00:00,1777144089.130365,14.71,80.53,0,0,0,True,Rain sensor active (81%) — watering skipped.
+2026-04-25T19:08:10.986086+00:00,1777144090.9860861,15.15,27.13,6.28,313.9,0,False,Soil at 15.2% (below 25.0%). Deficit to target (60.0%): 44.9%. Pump for 6.3s -> ~313.9ml. Weather clear (0% rain prob).
+2026-04-25T19:08:27.771007+00:00,1777144107.771007,10.59,75.8,0,0,0,True,Rain sensor active (76%) — watering skipped.
+2026-04-25T19:08:31.673218+00:00,1777144111.673218,12.06,62.36,6.71,335.6,0,False,Soil at 12.1% (below 25.0%). Deficit to target (60.0%): 47.9%. Pump for 6.7s -> ~335.6ml. Weather clear (0% rain prob).
+2026-04-25T19:10:21.567922+00:00,1777144221.567922,15.0,85.87,0,0,0,True,Rain sensor active (86%) — watering skipped.
+2026-04-25T19:11:09.824694+00:00,1777144269.8246942,24.93,93.1,0,0,0,True,Rain sensor active (93%) — watering skipped.
+2026-04-25T19:11:15.600324+00:00,1777144275.6003242,20.52,91.58,0,0,0,True,Rain sensor active (92%) — watering skipped.
+2026-04-25T19:11:17.701123+00:00,1777144277.701123,15.66,90.57,0,0,0,True,Rain sensor active (91%) — watering skipped.
+2026-04-25T19:11:21.684880+00:00,1777144281.68488,15.63,86.93,0,0,0,True,Rain sensor active (87%) — watering skipped.
+2026-04-25T19:11:23.520918+00:00,1777144283.5209177,15.59,84.27,0,0,0,True,Rain sensor active (84%) — watering skipped.
+2026-04-25T19:11:25.542547+00:00,1777144285.5425472,23.75,86.43,0,0,0,True,Rain sensor active (86%) — watering skipped.
+2026-04-25T19:11:27.697168+00:00,1777144287.697168,19.52,84.83,0,0,0,True,Rain sensor active (85%) — watering skipped.
+2026-04-25T19:11:31.656487+00:00,1777144291.6564867,15.59,82.92,0,0,0,True,Rain sensor active (83%) — watering skipped.
+2026-04-25T19:11:33.643370+00:00,1777144293.6433704,15.59,82.27,0,0,0,True,Rain sensor active (82%) — watering skipped.
+2026-04-25T19:11:35.566281+00:00,1777144295.5662808,15.63,84.7,0,0,0,True,Rain sensor active (85%) — watering skipped.
+2026-04-25T19:11:37.531089+00:00,1777144297.5310888,15.59,82.28,0,0,0,True,Rain sensor active (82%) — watering skipped.
+2026-04-25T19:11:39.596088+00:00,1777144299.5960877,15.59,82.1,0,0,0,True,Rain sensor active (82%) — watering skipped.
+2026-04-25T19:11:41.738305+00:00,1777144301.7383053,15.63,75.8,0,0,0,True,Rain sensor active (76%) — watering skipped.
+2026-04-25T19:11:43.585357+00:00,1777144303.585357,15.59,75.07,0,0,0,True,Rain sensor active (75%) — watering skipped.
+2026-04-25T19:11:45.603217+00:00,1777144305.6032166,15.63,67.78,0,0,0,True,Rain sensor active (68%) — watering skipped.
+2026-04-25T19:11:47.556389+00:00,1777144307.556389,15.63,59.73,6.21,310.6,0,False,Soil at 15.6% (below 25.0%). Deficit to target (60.0%): 44.4%. Pump for 6.2s -> ~310.6ml. Weather clear (0% rain prob).
+2026-04-25T19:11:51.773222+00:00,1777144311.773222,14.52,67.45,0,0,0,True,Rain sensor active (67%) — watering skipped.
+2026-04-25T19:11:56.693617+00:00,1777144316.6936166,14.52,62.37,6.37,318.4,0,False,Soil at 14.5% (below 25.0%). Deficit to target (60.0%): 45.5%. Pump for 6.4s -> ~318.4ml. Weather clear (0% rain prob).
+2026-04-25T19:14:33.536027+00:00,1777144473.5360272,15.63,23.38,6.21,310.6,0,False,Soil at 15.6% (below 25.0%). Deficit to target (60.0%): 44.4%. Pump for 6.2s -> ~310.6ml. Weather clear (0% rain prob).
+2026-04-25T19:14:37.482073+00:00,1777144477.4820726,8.24,26.13,7.25,362.3,0,False,Soil at 8.2% (below 25.0%). Deficit to target (60.0%): 51.8%. Pump for 7.2s -> ~362.3ml. Weather clear (0% rain prob).
+2026-04-25T19:16:35.806845+00:00,1777144595.8068454,15.44,22.08,6.24,311.9,0,False,Soil at 15.4% (below 25.0%). Deficit to target (60.0%): 44.6%. Pump for 6.2s -> ~311.9ml. Weather clear (0% rain prob).
+2026-04-25T19:16:45.217442+00:00,1777144605.2174418,15.44,21.95,6.24,311.9,0,False,Soil at 15.4% (below 25.0%). Deficit to target (60.0%): 44.6%. Pump for 6.2s -> ~311.9ml. Weather clear (0% rain prob).
+2026-04-25T19:18:41.005576+00:00,1777144721.0055757,15.99,19.49,6.16,308.1,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.1ml. Weather clear (0% rain prob).
+2026-04-25T19:18:47.009017+00:00,1777144727.0090165,16.03,19.5,6.16,307.8,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~307.8ml. Weather clear (0% rain prob).
+2026-04-25T19:20:41.266340+00:00,1777144841.26634,15.96,19.47,6.17,308.3,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.3ml. Weather clear (0% rain prob).
+2026-04-25T19:20:51.099835+00:00,1777144851.099835,15.96,19.5,6.17,308.3,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.3ml. Weather clear (0% rain prob).
+2026-04-25T19:22:41.281353+00:00,1777144961.2813532,15.99,19.73,6.16,308.1,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.1ml. Weather clear (0% rain prob).
+2026-04-25T19:22:51.214652+00:00,1777144971.2146518,16.07,19.77,6.15,307.5,0,False,Soil at 16.1% (below 25.0%). Deficit to target (60.0%): 43.9%. Pump for 6.2s -> ~307.5ml. Weather clear (0% rain prob).
+2026-04-25T19:24:43.367699+00:00,1777145083.3676994,16.18,20.08,6.13,306.7,0,False,Soil at 16.2% (below 25.0%). Deficit to target (60.0%): 43.8%. Pump for 6.1s -> ~306.7ml. Weather clear (0% rain prob).
+2026-04-25T19:24:53.274559+00:00,1777145093.2745588,16.14,20.13,6.14,307.0,0,False,Soil at 16.1% (below 25.0%). Deficit to target (60.0%): 43.9%. Pump for 6.1s -> ~307.0ml. Weather clear (0% rain prob).
+2026-04-25T19:26:45.411233+00:00,1777145205.4112327,16.18,20.23,6.13,306.7,0,False,Soil at 16.2% (below 25.0%). Deficit to target (60.0%): 43.8%. Pump for 6.1s -> ~306.7ml. Weather clear (0% rain prob).
+2026-04-25T19:26:55.443305+00:00,1777145215.4433055,16.11,20.27,6.14,307.2,0,False,Soil at 16.1% (below 25.0%). Deficit to target (60.0%): 43.9%. Pump for 6.1s -> ~307.2ml. Weather clear (0% rain prob).
+2026-04-25T19:28:15.315405+00:00,1777145295.315405,24.41,26.4,4.98,249.1,0,False,Soil at 24.4% (below 25.0%). Deficit to target (60.0%): 35.6%. Pump for 5.0s -> ~249.1ml. Weather clear (0% rain prob).
+2026-04-25T19:29:19.318752+00:00,1777145359.3187523,21.8,21.5,5.35,267.4,0,False,Soil at 21.8% (below 25.0%). Deficit to target (60.0%): 38.2%. Pump for 5.3s -> ~267.4ml. Weather clear (0% rain prob).
+2026-04-25T19:30:17.279847+00:00,1777145417.279847,16.07,17.27,6.15,307.5,0,False,Soil at 16.1% (below 25.0%). Deficit to target (60.0%): 43.9%. Pump for 6.2s -> ~307.5ml. Weather clear (0% rain prob).
+2026-04-25T19:31:19.885520+00:00,1777145479.88552,16.03,18.43,6.16,307.8,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~307.8ml. Weather clear (0% rain prob).
+2026-04-25T19:32:19.680665+00:00,1777145539.6806653,15.96,18.4,6.17,308.3,0,False,Soil at 16.0% (below 25.0%). Deficit to target (60.0%): 44.0%. Pump for 6.2s -> ~308.3ml. Weather clear (0% rain prob).
+2026-04-26T08:03:42.426337+00:00,1777190622.4263368,15.59,30.13,6.22,310.9,0,False,Soil at 15.6% (below 25.0%). Deficit to target (60.0%): 44.4%. Pump for 6.2s -> ~310.9ml. Weather clear (0% rain prob).
+2026-04-26T08:05:42.488339+00:00,1777190742.4883392,16.47,17.85,6.09,304.7,0,False,Soil at 16.5% (below 25.0%). Deficit to target (60.0%): 43.5%. Pump for 6.1s -> ~304.7ml. Weather clear (0% rain prob).
+2026-04-26T08:06:29.106012+00:00,1777190789.1060116,15.0,17.73,6.3,315.0,0,False,Soil at 15.0% (below 25.0%). Deficit to target (60.0%): 45.0%. Pump for 6.3s -> ~315.0ml. Weather clear (0% rain prob).
+2026-04-26T08:38:53.102450+00:00,1777192733.10245,16.47,24.27,6.09,304.7,0.0,False,Soil at 16.5% (below 25.0%). Need 43.5% more to reach target (60.0%). Running pump for 6.1s -> ~304.7ml. Weather is clear (0% rain chance).
